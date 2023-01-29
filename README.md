@@ -1,4 +1,4 @@
-# Curriculum.ai - CV Maker Web App
+# Curriculum.ai - CV Generator Using Python and GPT-3
 
 This is a web application that allows users to generate a CV using the OpenAI API. The application is built using Streamlit and Python.
 
